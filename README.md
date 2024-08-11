@@ -9,11 +9,11 @@
 
 ## Projects
 
-### [Ethernet Encoder](#)
+### [Ethernet Encoder](https://github.com/siwiaszczykb/100BASETX-KODER)
 A group project in which we have implemented a simplified encoder in the IEEE 802.3 100BASE-TX standard - a 4B5B encoder. We used LTSpice for electronic simulation and LaTeX to create documentation.
 
-### [Battleships](#)
+### [Battleships](https://github.com/siwiaszczykb/statki-sfml)
 This project involves the implementation of the classic battleships game using C++ and the SFML library. The game was developed following object-oriented programming paradigms.
 
-### [Map](#)
+### [Map](https://github.com/siwiaszczykb/mapa-dijkstra)
 This project involves the implementation of a program to determine the shortest route between two cities using Dijkstra's algorithm. The program is written in C++ utilizing data structures such as vectors, maps, pairs, and queues.
