@@ -4,8 +4,8 @@
 
 ## I'm learning
 
-- **Languages**: C++, Embedded C, Assembler, Python, SQL, NoSQL, MATLAB
-- **Technologies**: Cisco IOS, MySQL, ArangoDB, LaTeX, UML, LTSpice
+**Programming Languages**: C++, Embedded C, Assembly, Python, SQL, MATLAB
+**Technologies:** Linux, Cisco IOS, MySQL, ArangoDB, .NET, HTML & CSS, LaTeX, UML, LTSpice
 
 ## Projects
 
