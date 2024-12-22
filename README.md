@@ -4,5 +4,5 @@
 
 ## What I'm learning:
 
-- **Programming Languages**: C++, C, Assembly, VHDL, Verilog, Python, SQL, MATLAB
-- **Technologies:** Linux, Cisco IOS, MySQL, HTML & CSS, LaTeX, UML, LTSpice
+- C++, C, Assembly, VHDL, Verilog, Python, SQL, MATLAB
+- Linux, Cisco IOS, MySQL, HTML & CSS, LaTeX, UML, LTSpice
